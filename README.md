@@ -1,5 +1,5 @@
 ### Oi! Eu sou a Maria Eduarda Pires 👋
-# - 🔭 Em processo de graduação em Ciência da Computação
+- 🔭 Em processo de graduação em Ciência da Computação
 - 🌱 Aprendendo C++ no momento
 <div> 
   <a href="https://instagram.com/piresduda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
